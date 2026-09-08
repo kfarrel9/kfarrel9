@@ -1,6 +1,6 @@
-# Hi there 
+# Hi there!
 
-My name is Katelyn Farrell and I am a student at the University of Notre Dame studying ACMS with a Biology Concentration and a minor in Data Science. 
+My name is Katelyn Farrell and I am a student at the University of Notre Dame studying ACMS with a Biology Concentration and a minor in Data Science. I’m interested in using computation and data to better understand biological systems and solve problems in healthcare.
 
 ## About Me
 - Currently taking Introduction to Data Science
@@ -13,7 +13,6 @@ My name is Katelyn Farrell and I am a student at the University of Notre Dame st
           - **bake**
 - I am originally from **MA**, but currently living in **Lewis Hall** at Notre Dame
 - I play intramural **flag football** and **broom-ball** at ND
-
 - I love **country music**
 - My *special talent* is that I am really good at finding four leaf clovers 🍀
 - My *coolest adventure* is that I spent a summer at the base of Mount Kilimanjaro (Ninasema kiswahili kidogo sana. Unyama!)
