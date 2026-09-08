@@ -7,7 +7,10 @@ My name is Katelyn Farrell and I am a student at the University of Notre Dame st
 - Learning Python, pandas, and data visualization
 - How to reach me: kfarrel9@nd.edu
 
-### Interests / Fun Facts
+### Projects
+- Data Science Portfolio: [Farrell-Data-Science-Portfolio-Fall2026](https://github.com/kfarrel9/Farrell-Data-Science-Portfolio-Fall2026)
+
+#### Interests / Fun Facts
 - I love to **ski**
           - **run**
           - **bake**
