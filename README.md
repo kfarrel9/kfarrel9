@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 
 
 My name is Katelyn Farrell and I am a student at the University of Notre Dame studying ACMS with a Biology Concentration and a minor in Data Science. 
 
@@ -10,6 +10,7 @@ My name is Katelyn Farrell and I am a student at the University of Notre Dame st
 ### Interests
 - I love to ski, run, and bake
 - I am originally from MA, but currently living in Lewis Hall at Notre Dame
+- I play intramural flag football and broom-ball at ND
 
 <!--
 **kfarrel9/kfarrel9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
