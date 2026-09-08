@@ -8,9 +8,10 @@ My name is Katelyn Farrell and I am a student at the University of Notre Dame st
 - How to reach me: kfarrel9@nd.edu
 
 ### Interests
-- I love to ski, run, and bake
-- I am originally from MA, but currently living in Lewis Hall at Notre Dame
-- I play intramural flag football and broom-ball at ND
+- I love to **ski, run, and bake**
+- I am originally from **MA**, but currently living in **Lewis Hall** at Notre Dame
+- I play intramural **flag football** and **broom-ball** at ND
+- I love **country music**
 
 <!--
 **kfarrel9/kfarrel9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
