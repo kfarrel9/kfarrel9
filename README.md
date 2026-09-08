@@ -2,17 +2,23 @@
 
 My name is Katelyn Farrell and I am a student at the University of Notre Dame studying ACMS with a Biology Concentration and a minor in Data Science. 
 
-### About Me
+## About Me
 - Currently taking Introduction to Data Science
 - Learning Python, pandas, and data visualization
 - How to reach me: kfarrel9@nd.edu
 
-### Interests
-- I love to **ski, run, and bake**
+### Interests / Fun Facts
+- I love to **ski**
+          - **run**
+          - **bake**
 - I am originally from **MA**, but currently living in **Lewis Hall** at Notre Dame
 - I play intramural **flag football** and **broom-ball** at ND
-- I love **country music**
 
+- I love **country music**
+- My *special talent* is that I am really good at finding four leaf clovers 🍀
+- My *coolest adventure* is that I spent a summer at the base of Mount Kilimanjaro (Ninasema kiswahili kidogo sana. Unyama!)
+
+<img width="764" height="528" alt="Screenshot 2026-09-07 at 10 19 29 PM" src="https://github.com/user-attachments/assets/b07ed62e-ff94-4465-86b9-a56215588a68" />
 <!--
 **kfarrel9/kfarrel9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
