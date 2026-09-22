@@ -6,6 +6,9 @@ My name is Katelyn Farrell and I am a student at the University of Notre Dame st
 ## Current Projects
 - Data Science Portfolio: [Farrell-Data-Science-Portfolio-Fall2026](https://github.com/kfarrel9/Farrell-Data-Science-Portfolio-Fall2026)
 
+![Learning Python](https://img.shields.io/badge/Learning-Python-blue)
+![Data Science](https://img.shields.io/badge/Data%20Science-Student-green)
+
 ## Skills
 - Currently taking Introduction to Data Science
 - Learning Python, pandas, and data visualization
