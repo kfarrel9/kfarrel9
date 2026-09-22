@@ -4,7 +4,7 @@
 My name is Katelyn Farrell and I am a student at the University of Notre Dame studying ACMS with a Biology Concentration and a minor in Data Science. I’m interested in using computation and data to better understand biological systems and solve problems in healthcare.
 
 ## Current Projects
-- Data Science Portfolio: [Farrell-Data-Science-Portfolio-Fall2026](https://github.com/kfarrel9/Farrell-Data-Science-Portfolio-Fall2026)
+- Data Science Portfolio: [Farrell-Data-Science-Portfolio-Fall2026](https://github.com/kfarrel9/Farrell-Data-Science-Portfolio)
 
 ![Learning Python](https://img.shields.io/badge/Learning-Python-blue)
 ![Data Science](https://img.shields.io/badge/Data%20Science-Student-green)
